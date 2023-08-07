@@ -1,5 +1,6 @@
 # 💫 About Me:
-- BUT informatique (2ème année)<br><br>- I worked with different languages ​​such as Python, Golang, Kotlin, JavaFX, JavaScript <br>but also languages ​​such as HTML/CSS or even Oracle.
+- BUT informatique (2ème année)<br><br>
+- I worked with different languages ​​such as Python, Golang, Kotlin, JavaFX, JavaScript <br>but also languages ​​such as HTML/CSS or even Oracle.
 
 
 ## 🌐 Socials:
